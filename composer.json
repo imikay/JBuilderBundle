@@ -14,7 +14,7 @@
     "require": {
         "php": ">=5.4",
         "symfony/framework-bundle": "~2.2",
-        "jbuilder/common": "1.0.*"
+        "jbuilder/common": "dev-patch-1"
     },
     "require-dev": {
         "mockery/mockery": "dev-master"
